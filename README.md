@@ -3,10 +3,10 @@ This repository is about my Hands-On experiment to web scraping Using BeautifulS
 
 For start, you can use hotel term and city in UK for the location.
 
-![alt text](image.png)
+![alt text](images/image.png)
 
 If success you can see csv will created in results folder
 
-![alt text](image-1.png)
+![alt text](images/image-1.png)
 
 reff : https://www.youtube.com/watch?v=YIiYeyfo7MM
