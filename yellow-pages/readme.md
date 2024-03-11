@@ -1,0 +1,1 @@
+In this one, website is restrict us to scrape, but code works properly.
