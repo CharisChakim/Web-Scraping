@@ -1,12 +1,2 @@
 # About
-This repository is about my Hands-On experiment to web scraping Using BeautifulSoup4.
-
-For start, you can use hotel term and city in UK for the location.
-
-![alt text](images/image.png)
-
-If success you can see csv will created in results folder
-
-![alt text](images/image-1.png)
-
-reff : https://www.youtube.com/watch?v=YIiYeyfo7MM
+This repository is about my Hands-On experiment to web scraping. The folder is represent the different technique  to do scrape.
