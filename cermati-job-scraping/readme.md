@@ -1,0 +1,1 @@
+It was scrape on dynamic website, I find some difficulty when I work on it. This Program will be scrape all job posting there, and it can more faster and I still learn to make it more faste to scrape it
