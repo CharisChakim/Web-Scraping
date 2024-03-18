@@ -1,0 +1,1 @@
+In this code, I still find the best way to do dynamic scrape, because class name always generate different name on every time we search keyword
