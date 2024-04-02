@@ -8,7 +8,7 @@ import json
 import time
 
 # Mendapatkan konten HTML dari halaman web
-# Note : Please Open Your chrome browser to trigger the webdriver
+# =====>>>>>> Note : Please Open Your chrome browser to trigger the webdriver
 url = "https://www.cermati.com/karir"
 driver = webdriver.Chrome()
 
